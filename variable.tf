@@ -1,6 +1,6 @@
 variable "vpc-name" {
   type        = string
-  default     = "my-vpc"
+  default     = "my-vpc-name"
   description = "vpc name"
 }
 variable "cidr" {
